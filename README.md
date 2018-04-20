@@ -8,6 +8,8 @@ I added functionality for the bot responding to comments,but only comments not m
 
 My ultimate goal for this "Hello, World" project is to be able to compile all of the open issue titles into one central locked issue.
 
+EDIT: Okay this is where I will end this project for now, it now keeps a running list of all the open issues and update whenever someone comments or opens a new issue! Sorry it took so long but I took a break to do some school work... This was fun!
+
 ## Setup
 
 ```sh
